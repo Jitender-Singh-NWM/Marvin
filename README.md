@@ -4,7 +4,7 @@
 This repository contains the implementation code for the Marvin voice assistant, modeled to function similarly to popular voice assistants like Amazon's Alexa or Apple's Siri. The project integrates various models to handle tasks such as wake word detection, speech transcription, language model querying, and speech synthesis.
 
 ## Guidance and Assistance
-This project was completed under the guidance of **Dr. Ajay Bandi** and with the assistance of **Hemanth** and **Pravilika** as part of the Generative AI course.
+This project was completed under the guidance of **Dr. Ajay Bandi** and with the assistance of **Hemanth Sai Kagitha** and **Pravallika Mummadi** as part of the Generative AI course at  **North West Missouri State Univeristy**.
 
 ## Tools Used
 The implementation of Marvin involves several tools, each crucial for different stages of the voice assistant pipeline:
